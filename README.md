@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/DinoRun.au3
-	```
+```
+src/DinoRun.au3
+```
 
 ## Authors
 
